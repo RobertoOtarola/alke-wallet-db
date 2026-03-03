@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# DBeaver / DB Tools
+.dbeaver/
+*.log
+
+# Python (Por si luego integras el backend)
+__pycache__/
+*.py[cod]
+.venv/
+env/
+.env
